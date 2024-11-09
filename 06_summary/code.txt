@@ -1,0 +1,4 @@
+信号预处理代码：https://www.kaggle.com/code/jiazhuang/ariel-signal-preprocessing/notebook
+训练代码：https://www.kaggle.com/code/jiazhuang/ariel-train/notebook
+推理提交代码：https://www.kaggle.com/code/jiazhuang/adc2024-fix-window-weights-finetuning/notebook
+
